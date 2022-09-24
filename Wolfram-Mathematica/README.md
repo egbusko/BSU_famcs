@@ -1,1 +1,1 @@
-laboratory work on the discipline wolfram mathematica
+laboratory work on the discipline Wolfram Mathematica
