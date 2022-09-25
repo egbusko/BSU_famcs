@@ -11,6 +11,8 @@ For a set of variables x1, x2, …, xn, you are given a list of equality constra
 **Input**\
 The first line contains the number n of variables (1 ≤ n ≤ 100000) and the number m of constraints (1 ≤ m ≤ 100000).
 Then m lines contain the constraints themselves in the format "variable", "operator", "variable". Variables are defined as follows: the letter x, then the number - an integer from 1 to n inclusive. An operator is either == (equal to) or != (not equal to).
+
+
 **Output**\
 Print the answer to the problem question — Yes or No.
 
