@@ -1,4 +1,4 @@
-## Problem 32. Равенства и неравенства
+## Problem 32. Equalities and inequalities
 Input file name: equal-not-equal.in\
 Output file name: equal-not-equal.out\
 Time limit: 1 s\
