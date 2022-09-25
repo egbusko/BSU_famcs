@@ -1,4 +1,4 @@
-## Problem 34. Таксист
+## Problem 34. Taxist
 Input file name: input.txt\
 Output file name: output.txt\
 Time limit: 1 s\
