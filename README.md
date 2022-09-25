@@ -1,5 +1,7 @@
 # bsu_famcs
 
+![image](https://user-images.githubusercontent.com/60915234/192141338-8ad79e8b-51d5-48cc-a46c-32854e5f1c04.png)
+
 **BSU** - [Belarusian State University](https://bsu.by/en/)\
 **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)
 
