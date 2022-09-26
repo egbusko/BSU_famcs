@@ -1,4 +1,4 @@
-##Problem 0.4. Build Adjacency Matrix
+## Problem 0.4. Build Adjacency Matrix
 Input file name: input.txt\
 Output filename: output.txt\
 Time limit: 1s\
