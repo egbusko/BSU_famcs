@@ -1,4 +1,4 @@
-## Problem 0.11. Maximum flow (simple version)
+## Problem 0.11. Maximum flow
 Input file name: standard input\
 Output file name: standard output\
 Time limit: 1s\
