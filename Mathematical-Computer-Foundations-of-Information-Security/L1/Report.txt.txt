@@ -1,0 +1,10 @@
+---Vigenere---
+Input: ШИФРТЕКСТ
+Encrypted: БНТЩЧГУЦР
+Decrypted: ШИФРТЕКСТ
+
+
+---Hill---
+Input: ВКУРДХГЁ
+Decrypted: АВОКАДОЪ
+Encrypted: ВКУРДХГЁ
