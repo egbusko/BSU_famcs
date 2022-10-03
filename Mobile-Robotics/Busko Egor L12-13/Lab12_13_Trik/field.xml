@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root version="20190819">
+    <world>
+        <walls/>
+        <skittles/>
+        <balls/>
+        <colorFields>
+            <cubicBezier cp1="55:26" end="105:-215" stroke="#ff000000" id="{aa44183a-4c29-49d8-adf2-b75f71276672}" fill-style="none" stroke-width="6" stroke-style="solid" fill="#ff000000" begin="85:26" cp2="215:26"/>
+            <line end="-103:-73" stroke="#ff000000" id="{9a82c7c8-7196-4312-9de9-8a2d4ba65085}" fill-style="none" stroke-width="6" stroke-style="solid" fill="#ff000000" begin="105:-215"/>
+        </colorFields>
+        <images/>
+        <regions/>
+    </world>
+    <robots>
+        <robot position="0:0" direction="0" id="ev3KitUsbRobot">
+            <sensors>
+                <sensor type="" position="0:0" direction="0" port="A###output###А###"/>
+                <sensor type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0" port="B###output###В###"/>
+                <sensor type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0" port="C###output###С###"/>
+                <sensor type="kitBase::robotModel::robotParts::LightSensor" position="53:43" direction="0" port="3###input######sensor3"/>
+                <sensor type="kitBase::robotModel::robotParts::LightSensor" position="55:16" direction="0" port="2###input######sensor2"/>
+                <sensor type="" position="0:0" direction="0" port="D###output######"/>
+                <sensor type="" position="0:0" direction="0" port="1###input######sensor1"/>
+                <sensor type="" position="0:0" direction="0" port="4###input######sensor4"/>
+            </sensors>
+            <startPosition direction="0" id="{d33407ee-b1d0-4fd8-b454-681ad7c21b2b}" y="25" x="25"/>
+            <wheels right="C###output###С###" left="B###output###В###"/>
+        </robot>
+    </robots>
+    <settings realisticPhysics="false" realisticSensors="false" realisticMotors="false"/>
+</root>

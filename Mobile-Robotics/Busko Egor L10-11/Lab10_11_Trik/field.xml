@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root version="20190819">
+    <world>
+        <walls/>
+        <skittles/>
+        <balls/>
+        <colorFields>
+            <line end="253.593:-322.111" stroke-style="solid" id="{62db3e8c-2ffb-427d-959d-5fd967b04442}" stroke="#ff000000" fill-style="none" begin="85.5926:57.8889" fill="#ff000000" stroke-width="30"/>
+        </colorFields>
+        <images/>
+        <regions/>
+    </world>
+    <robots>
+        <robot position="60.2634:31.5746" id="ev3KitUsbRobot" direction="-66.0842">
+            <sensors>
+                <sensor port="1###input######sensor1" type="" position="0:0" direction="0"/>
+                <sensor port="2###input######sensor2" type="kitBase::robotModel::robotParts::LightSensor" position="44:23" direction="1.94088"/>
+                <sensor port="C###output###С###" type="kitBase::robotModel::robotParts::Motor" position="25:25" direction="0"/>
+                <sensor port="B###output###В###" type="kitBase::robotModel::robotParts::Motor" position="25:25" direction="0"/>
+                <sensor port="A###output###А###" type="kitBase::robotModel::robotParts::Motor" position="25:25" direction="0"/>
+                <sensor port="D###output######" type="kitBase::robotModel::robotParts::Motor" position="25:25" direction="0"/>
+            </sensors>
+            <startPosition y="73.8889" x="75.6667" id="{631b829d-ec03-411d-a67a-319046c85d0d}" direction="-61.1122"/>
+            <wheels right="C###output###С###" left="B###output###В###"/>
+        </robot>
+    </robots>
+    <settings realisticMotors="false" realisticSensors="false" realisticPhysics="false"/>
+</root>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root version="20190819">
+    <world>
+        <walls/>
+        <skittles/>
+        <balls/>
+        <colorFields>
+            <line stroke="#ff000000" stroke-style="solid" end="801:25" fill="#ff000000" fill-style="none" id="{7ef0e6ed-992e-4558-a4a7-2d4fc0ad349c}" begin="23:24" stroke-width="12"/>
+            <cubicBezier stroke="#ff000000" stroke-style="solid" cp2="285:239" end="285:26" fill="#ff000000" fill-style="none" id="{42745d49-ccf6-43bf-b013-f1fb0fd2a7a9}" begin="543:32" stroke-width="12" cp1="545:237"/>
+            <cubicBezier stroke="#ff000000" stroke-style="solid" cp2="25:-172" end="24:20" fill="#ff000000" fill-style="none" id="{83ca3cdb-fb66-441b-938e-7eb1ab088d8d}" begin="284:22" stroke-width="12" cp1="280:-172"/>
+            <cubicBezier stroke="#ff000000" stroke-style="solid" cp2="545:-171" end="544:21" fill="#ff000000" fill-style="none" id="{707b34e9-6711-4fad-b316-f084ea87b8a6}" begin="799:22" stroke-width="12" cp1="800:-171"/>
+        </colorFields>
+        <images/>
+        <regions/>
+    </world>
+    <robots>
+        <robot position="364.929:160.883" id="ev3KitUsbRobot" direction="7.524">
+            <sensors>
+                <sensor port="2###input######sensor2" type="kitBase::robotModel::robotParts::LightSensor" position="55:10" direction="0"/>
+                <sensor port="B###output###В###" type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0"/>
+                <sensor port="C###output###С###" type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0"/>
+                <sensor port="A###output###А###" type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0"/>
+                <sensor port="D###output######" type="kitBase::robotModel::robotParts::Motor" position="75:25" direction="0"/>
+                <sensor port="1###input######sensor1" type="kitBase::robotModel::robotParts::LightSensor" position="55:38" direction="0"/>
+            </sensors>
+            <startPosition x="25" id="{24847624-8f30-464a-8214-8c22497df9d9}" direction="0" y="25"/>
+            <wheels left="B###output###В###" right="C###output###С###"/>
+        </robot>
+    </robots>
+    <settings realisticMotors="false" realisticSensors="false" realisticPhysics="false"/>
+</root>
