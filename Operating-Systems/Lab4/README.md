@@ -16,10 +16,14 @@ Write a program to control the access of parallel processes to a file via an ano
                 The file name and student data are entered from the console.
     
         1.2. Prints the generated file to the console.  
-        1.3. Starts Client processes that access a file over an anonymous channel. The number of client processes is entered from the console.  
+        1.3. Starts Client processes that access a file over an anonymous channel. 
+             The number of client processes is entered from the console.  
         1.4. Serves requests from client processes as follows:
-        - if a client process requests modification of a file entry, then access to this file entry is blocked for other client processes until the modification of the record by the client is completed;
-        - if the client process requests to read the entry, then access to this entry for other client processes:
+        - if a client process requests modification of a file entry, 
+          then access to this file entry is blocked for other client processes 
+          until the modification of the record by the client is completed;
+        - if the client process requests to read the entry, 
+          then access to this entry for other client processes:
         - not blocked if they also request read access to the data;
         - is blocked if they request access to write data.
     
