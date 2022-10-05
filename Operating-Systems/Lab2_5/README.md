@@ -7,6 +7,7 @@ The **Creator** utility creates a binary file, whose name it receives through th
 
 1. The number of file records is entered from the console.
 2. File entries are entered from the console and have the following structure:
+        
         struct order {
             charname[10]; // product name
             int amount; // number of product units
