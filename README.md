@@ -6,8 +6,21 @@
 **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)
 
 
-This repository contains disciplines studied at the FAMCS at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in BSU.\
-Years of education: 2018-2022  
+This repository contains disciplines studied at the FAMCS at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in BSU. :technologist: \
+:man_student: Years of education: 2018-2022  
 
-Finished folders: 
+Finished folders:  
 [Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)
+
+
+:star:
+:desktop_computer:
+:bookmark_tabs:
+:grey_exclamation:
+:heavy_check_mark:
+:small_blue_diamond:
+
+
+:round_pushpin: Folders:  
+:file_folder: first  
+:file_folder: second
