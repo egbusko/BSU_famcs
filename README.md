@@ -11,7 +11,7 @@ This repository contains disciplines studied at the FAMCS at the [Department of 
 
 ***
 + :file_folder: Finished folders:  
-  - :round_pushpin: [Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)  
+  - :round_pushpin: [Operating-Systems](/Operating-Systems)  
   - :round_pushpin:   
   - :round_pushpin:   
 
