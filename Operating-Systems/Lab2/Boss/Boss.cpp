@@ -19,7 +19,7 @@ int main()
 	PROCESS_INFORMATION pi;
 
 
-	char czCommandLine[] = "C:\\Egor\\Univer\\Програм\\Visual Stud\\source\\repos\\4 семестр\\C2\\Scout\\Debug\\Scout.exe";
+	char czCommandLine[] = "C:\\Egor\\Univer\\Programming\\Visual Stud\\source\\repos\\4 Г±ГҐГ¬ГҐГ±ГІГ°\\C2\\Scout\\Debug\\Scout.exe";
 
 	int numScouts;
 	cout << "Enter number of Scounts: ";
@@ -101,8 +101,8 @@ int main()
 	PROCESS_INFORMATION piApp;
 	ZeroMemory(&si, sizeof(STARTUPINFO));
 	si.cb = sizeof(STARTUPINFO);
-	// создаем новый консольный процесс
-	if (!CreateProcess((LPCWSTR)"C:\\Egor\\Univer\\Програм\\Visual Stud\\source\\repos\\4 семестр\\Boss\\Debug\\Boss.exe", NULL, NULL, NULL, FALSE,
+	// create a new console process
+	if (!CreateProcess((LPCWSTR)"C:\\Egor\\Univer\\Programming\\Visual Stud\\source\\repos\\4 Г±ГҐГ¬ГҐГ±ГІГ°\\Boss\\Debug\\Boss.exe", NULL, NULL, NULL, FALSE,
 		CREATE_NEW_CONSOLE, NULL, NULL, &si, &piApp))
 	{
 		_cputs("The new process is not created.\n");
@@ -112,9 +112,9 @@ int main()
 		return 0;
 	}
 	_cputs("The new process is created.\n");
-	// ждем завершения созданного прцесса
+	// waiting for the end of the created process
 	WaitForSingleObject(piApp.hProcess, INFINITE);
-	// закрываем дескрипторы этого процесса в текущем процессе
+	// close the handles of this process in the current process
 	CloseHandle(piApp.hThread);
 	CloseHandle(piApp.hProcess);
 	return 0;
