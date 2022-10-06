@@ -9,8 +9,10 @@
 This repository contains disciplines studied at the FAMCS at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in BSU. \
 :man_student: Years of education: 2018-2022  
 
-Finished folders:  
-[Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)
+:file_folder: Finished folders:  
+  :round_pushpin: [Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)
+  :round_pushpin: 
+  :round_pushpin: 
 
 
 :star:
@@ -18,9 +20,5 @@ Finished folders:
 :bookmark_tabs:
 :grey_exclamation:
 :heavy_check_mark:
-:small_blue_diamond:
+:small_green_diamond:
 
-
-:file_folder:Folders:  
-:round_pushpin:first  
-:round_pushpin:second
