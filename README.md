@@ -1,4 +1,4 @@
-#  :technologist: bsu_famcs
+#  bsu_famcs  :technologist: 
 
 ![image](https://user-images.githubusercontent.com/60915234/192141338-8ad79e8b-51d5-48cc-a46c-32854e5f1c04.png)
 
@@ -10,9 +10,9 @@ This repository contains disciplines studied at the FAMCS at the [Department of 
 :man_student: Years of education: 2018-2022  
 
 :file_folder: Finished folders:  
-  :round_pushpin: [Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)
-  :round_pushpin: 
-  :round_pushpin: 
+  :round_pushpin: [Operating-Systems](https://github.com/egbusko/bsu_famcs/blob/uploading-items-branch/Operating-Systems)  
+  :round_pushpin:   
+  :round_pushpin:   
 
 
 :star:
@@ -20,5 +20,5 @@ This repository contains disciplines studied at the FAMCS at the [Department of 
 :bookmark_tabs:
 :grey_exclamation:
 :heavy_check_mark:
-:small_green_diamond:
+:small_blue_diamond:
 
