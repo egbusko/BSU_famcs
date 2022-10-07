@@ -1,5 +1,5 @@
 #  Bachelor's degree - Mathematics and Computer Science :man_student: 
-##draft
+## draft
 ![image](https://user-images.githubusercontent.com/60915234/192141338-8ad79e8b-51d5-48cc-a46c-32854e5f1c04.png)
 
 This repository contains disciplines studied at the `FAMCS` at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in `BSU`.
@@ -22,7 +22,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 :grey_exclamation:
 :heavy_check_mark:
 :small_blue_diamond:
-:technologist:
-*My degree program was engineering.
-My major was electrical engineering.
+:technologist:\
+*My degree program was engineering.  
+My major was electrical engineering.  
 My specialization was power systems and control systems.*
