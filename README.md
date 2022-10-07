@@ -6,7 +6,7 @@
 **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)
 
 
-This repository contains disciplines studied at the FAMCS at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in BSU. \
+This repository contains disciplines studied at the `FAMCS` at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in `BSU`. \
 :man_student: Years of education: 2018-2022  
 
 ***
