@@ -15,3 +15,6 @@ The **output** of the results is achieved using the results of the decimal point
 all logic of the link application in a separate class;  
 handle exceptions;  
 clean code.
+
+**Variants:**  
+![image](https://user-images.githubusercontent.com/60915234/194551629-58a79a43-9784-450f-baa1-b03a8634cd5a.png)
