@@ -1,4 +1,4 @@
-## Laboratory work 5: Finding Text in an HTML Page
+## Laboratory work 5. Finding Text in an HTML Page
  
 Develop a console application in Java.
  
