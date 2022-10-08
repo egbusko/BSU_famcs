@@ -1,4 +1,4 @@
-## Laboratory work 8: Working with Threads
+## Laboratory work 8. Working with Threads
  
 
 Write a program for the console process, which consists of two threads: Main (main thread) and Sort.
