@@ -1,4 +1,4 @@
-## Laboratory work 10. Checking a web page for correct links
+## Laboratory work 9_1. Checking a web page for correct links
 
 *Additional task*
 
