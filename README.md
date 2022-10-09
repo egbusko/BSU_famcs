@@ -6,7 +6,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 > **BSU** - [Belarusian State University](https://bsu.by/en/)\
 > **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)\
-> **Years of education** - 2018-2022
+> 2018-2022 **Years of education**
 
 
 ***
@@ -14,6 +14,29 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - :round_pushpin: [Operating-Systems](/Operating-Systems)  
   - :round_pushpin:   
   - :round_pushpin:   
++ :file_folder: Semester 1:  
+  - :round_pushpin:  
+  - :round_pushpin:   
++ :file_folder: Semester 2:  
+  - :round_pushpin:    
+  - :round_pushpin:   
++ :file_folder: Semester 3:  
+  - :round_pushpin:  
+  - :round_pushpin:  
++ :file_folder: Semester 4:  
+  - :round_pushpin:  
+  - :round_pushpin:   
++ :file_folder: Semester 5:  
+  - :round_pushpin:  
+  - :round_pushpin:   
++ :file_folder: Semester 6:  
+  - :round_pushpin:  
+  - :round_pushpin:  
++ :file_folder: Semester 7:  
+  - :round_pushpin:  
+  - :round_pushpin: 
++ :file_folder: Semester 8:  
+  - :round_pushpin:  
 
 
 :star:
