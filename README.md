@@ -6,7 +6,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 > **BSU** - [Belarusian State University](https://bsu.by/en/)\
 > **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)\
-> 2018-2022 **Years of education**
+> 2018-2022 Years of education
 
 
 ***
