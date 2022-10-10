@@ -1,0 +1,48 @@
+Nov 23, 2019 1:59:21 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 03-12-2001 / 31-12-2111 Number of found: 1
+
+Nov 23, 2019 2:10:59 PM DataFinder fillFileRequest
+INFO: Request: 1.Company by short title : title Number of found: 4
+
+Nov 23, 2019 2:20:24 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 01-01-2015 / 23-11-2019 Number of found: 3
+
+Nov 23, 2019 2:21:51 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 23-11-2019 / 23-11-2019 Number of found: 0
+
+Nov 23, 2019 2:22:28 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 31-02-2019 / 23-11-2019 Number of found: 0
+
+Nov 23, 2019 2:24:13 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 31-02-2019 / 23-11-2019 Number of found: 0
+
+Nov 23, 2019 2:24:55 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 31-02-2019 / 23-11-2019 Number of found: 0
+
+Nov 23, 2019 2:25:54 PM DataFinder fillFileRequest
+INFO: Request: 4.Company by foundation date : 32-02-2019 / 23-11-2019 Number of found: 0
+
+Nov 23, 2019 9:36:11 PM DataFinder fillFileRequest
+INFO: Request: 2.Company by branch : 3 Number of found: 0
+
+Nov 30, 2019 1:35:22 PM DataFinder fillFileRequest
+INFO: Request: 2.Company by branch : tfg Number of found: 0
+
+Dec 03, 2019 9:21:08 PM DataFinder fillFileRequest
+INFO: Request: 5.Company by employees number : 0 / 1000 Number of found: 4
+
+Dec 03, 2019 9:38:59 PM DataFinder fillFileRequest
+INFO: Request: 5.Company by employees number : 0 / 1000 Number of found: 4
+
+Dec 03, 2019 9:46:38 PM DataFinder fillFileRequest
+INFO: Request: 5.Company by employees number : 0 / 1000 Number of found: 4
+
+Dec 03, 2019 9:51:37 PM DataFinder fillFileRequest
+INFO: Request: 5.Company by employees number : 0 / 1000 Number of found: 4
+
+Nov 09, 2020 10:54:48 AM DataFinder fillFileRequest
+INFO: Request: 3.Company by activity : 5 Number of found: 0
+
+Nov 09, 2020 10:55:12 AM DataFinder fillFileRequest
+INFO: Request: 1.Company by short title : title Number of found: 4
+
