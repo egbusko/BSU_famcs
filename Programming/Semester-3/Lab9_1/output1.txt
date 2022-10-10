@@ -1,0 +1,4 @@
+   Site\file            			title\size
+https://tut.by			Белорусский портал TUT.BY. Новости Беларуси и мира
+http://6.pogoda.by			POGODA.BY | Погода в Минске, Беларусь. Прогноз погоды на 6 дней Минск | Белгидромет
+https://img2.goodfon.ru/original/2048x1365/2/92/priroda-nebo-oblaka-ozero.jpg			2355 Mb
