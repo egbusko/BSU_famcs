@@ -15,26 +15,27 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - :round_pushpin:   
   - :round_pushpin:   
 + :file_folder: Semester 1:  
-  - :round_pushpin:  
+  - :round_pushpin: [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
   - :round_pushpin:   
 + :file_folder: Semester 2:  
   - :round_pushpin:    
   - :round_pushpin:   
 + :file_folder: Semester 3:  
-  - :round_pushpin:  
+  - :round_pushpin: [Computer-Data-Mining](/Computer-Data-Mining)  
+  - :round_pushpin: [Programming on Java](/Programming/Semester-3)  
   - :round_pushpin:  
 + :file_folder: Semester 4:  
-  - :round_pushpin:  
-  - :round_pushpin:   
+  - :round_pushpin: [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)    
+  - :round_pushpin: [Operating-Systems](/Operating-Systems)   
 + :file_folder: Semester 5:  
-  - :round_pushpin:  
+  - :round_pushpin: [Wolfram-Mathematica](/Wolfram-Mathematica)  
   - :round_pushpin:   
 + :file_folder: Semester 6:  
-  - :round_pushpin:  
-  - :round_pushpin:  
+  - :round_pushpin: [Computer-Graphics](/Computer-Graphics)  
+  - :round_pushpin: [Computer-Security](/Computer-Security)  
 + :file_folder: Semester 7:  
-  - :round_pushpin:  
-  - :round_pushpin: 
+  - :round_pushpin: [Mobile-Robotics](/Mobile-Robotics)  
+  - :round_pushpin: [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
 + :file_folder: Semester 8:  
   - :round_pushpin:  
 
