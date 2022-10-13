@@ -50,3 +50,6 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 *My degree program was engineering.  
 My major was electrical engineering.  
 My specialization was power systems and control systems.*
+
+to do:  
+- put the years in all folders
