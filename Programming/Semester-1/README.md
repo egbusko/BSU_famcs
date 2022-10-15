@@ -1,2 +1,1 @@
-## Translate: ru->en
-1st semester
+### 1st semester
