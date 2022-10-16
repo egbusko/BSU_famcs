@@ -10,7 +10,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 
 ***
-+ :round_pushpin: Finished folders:  
++ :file_folder: Finished folders:  
   - [Operating-Systems](/Operating-Systems)  
   -    
   -  
