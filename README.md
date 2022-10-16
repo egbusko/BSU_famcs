@@ -13,9 +13,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 + :round_pushpin: Finished folders:  
   - [Operating-Systems](/Operating-Systems)  
   -    
-  -    
-  
-  
+  -  
 + :file_folder: Semester 1:  
   - [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
   -    
