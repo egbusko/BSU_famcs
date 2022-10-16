@@ -18,7 +18,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - :round_pushpin: [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
   - :round_pushpin:   
 + :file_folder: Semester 2:  
-  - :round_pushpin:    
+  - :round_pushpin: [Programming on C++, MFC](/Programming/Semester-2)   
   - :round_pushpin:   
 + :file_folder: Semester 3:  
   - :round_pushpin: [Computer-Data-Mining](/Computer-Data-Mining)  
