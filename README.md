@@ -18,18 +18,18 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
   -    
 + :file_folder: Semester 2:  
-  - :round_pushpin: [Programming on C++, MFC](/Programming/Semester-2)   
-  - :round_pushpin:   
+  - [Programming on C++, MFC](/Programming/Semester-2)   
+  -    
 + :file_folder: Semester 3:  
-  - :round_pushpin: [Computer-Data-Mining](/Computer-Data-Mining)  
-  - :round_pushpin: [Programming on Java](/Programming/Semester-3)  
-  - :round_pushpin:  
+  - [Computer-Data-Mining](/Computer-Data-Mining)  
+  - [Programming on Java](/Programming/Semester-3)  
+  -   
 + :file_folder: Semester 4:  
-  - :round_pushpin: [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)    
-  - :round_pushpin: [Operating-Systems](/Operating-Systems)   
+  - [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)    
+  - [Operating-Systems](/Operating-Systems)   
 + :file_folder: Semester 5:  
-  - :round_pushpin: [Wolfram-Mathematica](/Wolfram-Mathematica)  
-  - :round_pushpin:   
+  - [Wolfram-Mathematica](/Wolfram-Mathematica)  
+  -    
 + :file_folder: Semester 6:  
   - :round_pushpin: [Computer-Graphics](/Computer-Graphics)  
   - :round_pushpin: [Computer-Security](/Computer-Security)  
