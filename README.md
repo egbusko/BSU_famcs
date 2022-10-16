@@ -11,12 +11,12 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 ***
 + :file_folder: Finished folders:  
-  - :round_pushpin: [Operating-Systems](/Operating-Systems)  
-  - :round_pushpin:   
-  - :round_pushpin:   
+  - [Operating-Systems](/Operating-Systems)  
+  -    
+  -    
 + :file_folder: Semester 1:  
-  - :round_pushpin: [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
-  - :round_pushpin:   
+  - [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
+  -    
 + :file_folder: Semester 2:  
   - :round_pushpin: [Programming on C++, MFC](/Programming/Semester-2)   
   - :round_pushpin:   
@@ -46,6 +46,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 :grey_exclamation:
 :heavy_check_mark:
 :small_blue_diamond:
+:round_pushpin: 
 :technologist:\
 *My degree program was engineering.  
 My major was electrical engineering.  
