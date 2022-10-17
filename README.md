@@ -38,6 +38,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
 + :file_folder: Semester 8:  
   -  
+  -  
 
 
 :star:
