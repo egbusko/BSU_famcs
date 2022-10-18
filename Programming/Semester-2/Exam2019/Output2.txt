@@ -1,0 +1,12 @@
+ ----------Second  (Sorted on types)  FrEng---------- 
+
+Partir  V  Go at-(eng. saying)
+Entrer  V  Go in-(eng. saying)
+Sortir  V  Go out-(eng. saying)
+Aller  V  Go to-(eng. saying)
+Courir  V  Run-(eng. saying)
+Pomme  S  Apple-(eng. saying)
+Table  S  Table-(eng. saying)
+ ------------------------------------------------ 
+
+

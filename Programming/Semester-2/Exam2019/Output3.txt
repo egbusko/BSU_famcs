@@ -1,0 +1,10 @@
+ ----------Third  (Sorted on types)  EngCounter ---------- 
+
+Apple  S  1-(repeting)
+Apricot  S  1-(repeting)
+Go  V  4-(repeting)
+Melon  S  1-(repeting)
+Run  V  2-(repeting)
+ ------------------------------------------------ 
+
+

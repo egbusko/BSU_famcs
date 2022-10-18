@@ -1,0 +1,14 @@
+ ----------First  (Sorted on words) EngFr ---------- 
+
+a Apple      S    Pomme une 
+a Apricot      S    Abricot un 
+to Go   Out   V    Sortir un 
+to Go   At   V    Allere une 
+to Go   In   V    Entrer un 
+to Go   At   V    Partir un 
+a Melon      S    Melon un 
+to Run      V    Courire une 
+to Run   Out   V    Sortir un 
+ ---------------------------------------------------
+
+
