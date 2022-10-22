@@ -39,6 +39,13 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 + :file_folder: Semester 8: 
   - diplom  
 
+<details>
+<summary>:file_folder: Semester 1:  </summary>
+<ul> 
+<li> [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  </li>
+<li> </li>
+</ul>
+</details>
 
 :star:
 :desktop_computer:
