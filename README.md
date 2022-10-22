@@ -14,29 +14,29 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - [Operating-Systems](/Operating-Systems)  
   -    
   -  
-:file_folder: Semester 1:  
++ :file_folder: Semester 1:  
   - [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
   -    
-:file_folder: Semester 2:  
++ :file_folder: Semester 2:  
   - [Programming on C++, MFC](/Programming/Semester-2)   
   -    
-:file_folder: Semester 3:  
++ :file_folder: Semester 3:  
   - [Computer-Data-Mining](/Computer-Data-Mining)  
   - [Programming on Java](/Programming/Semester-3)  
   -   
-:file_folder: Semester 4:  
++ :file_folder: Semester 4:  
   - [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)    
   - [Operating-Systems](/Operating-Systems)   
-:file_folder: Semester 5:  
++ :file_folder: Semester 5:  
   - [Wolfram-Mathematica](/Wolfram-Mathematica)  
   -    
-:file_folder: Semester 6:  
++ :file_folder: Semester 6:  
   - [Computer-Graphics](/Computer-Graphics)  
   - [Computer-Security](/Computer-Security)  
-:file_folder: Semester 7:  
++ :file_folder: Semester 7:  
   - [Mobile-Robotics](/Mobile-Robotics)  
   - [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
-:file_folder: Semester 8: 
++ :file_folder: Semester 8: 
   - diplom  
 
 <details>
