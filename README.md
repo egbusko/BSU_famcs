@@ -40,7 +40,16 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
   - diplom  
 
 <details>
-<summary>:file_folder: Semester 1:  </summary>
+<summary>:file_folder: 1st year  </summary>
+
+[Or a link - like to google](https://google.com)
+
+- Or a List
+  - or a nested List
+  - like this
+  - with 😊 emojis
+- Like this
+
 <ul> 
 <li> [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  </li>
 <li> </li>
