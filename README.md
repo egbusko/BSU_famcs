@@ -42,7 +42,9 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 <details>
 <summary>:file_folder: 1st year  </summary>
 - :file_folder: Semester 1:  
-- [Or a link - like to google](https://google.com):
+  
+  
+- [Or a link - like to google](https://google.com):  
   - [Programmimg on C/C++ and Assembler](https://github.com/egbusko/bsu_famcs/tree/uploading-items-branch/Programming/Semester-1)  
 </details>
 
