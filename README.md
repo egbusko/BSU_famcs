@@ -39,6 +39,12 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 + :file_folder: Semester 8: 
   - diplom  
 
+t
+
+&nbsp;t
+
+&nbsp;&nbsp;t
+
 <details>
 <summary>:file_folder: 1st year  </summary>
 &nbsp; :file_folder: Semester 1:  
