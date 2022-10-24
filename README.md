@@ -41,7 +41,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 
 <details>
-<summary>:file_folder: **1st year**  </summary>
+<summary>:file_folder: <b>1st year</b>  </summary>
 
 - Semester 1:  
 &nbsp;&nbsp; ◾ [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
@@ -52,7 +52,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 
 <details>
-<summary>:file_folder: **2nd year**  </summary>
+<summary>:file_folder: <b>2nd year</b>  </summary>
 
 - Semester 3:  
 &nbsp;&nbsp; ◾ [Computer-Data-Mining](/Computer-Data-Mining)  
@@ -65,7 +65,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 
 <details>
-<summary>:file_folder: **3rd year**  </summary>
+<summary>:file_folder: <b>3rd year</b>  </summary>
 
 - Semester 5:  
 &nbsp;&nbsp; ◾ [Wolfram-Mathematica](/Wolfram-Mathematica)    
@@ -77,7 +77,7 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 
 
 <details>
-<summary>:file_folder: **4th year**  </summary>
+<summary>:file_folder: <b>4th year</b>  </summary>
 
 - Semester 7:  
 &nbsp;&nbsp; ◾ [Mobile-Robotics](/Mobile-Robotics)  
