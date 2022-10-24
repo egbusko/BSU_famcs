@@ -39,17 +39,16 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 + :file_folder: Semester 8: 
   - diplom  
 
-t
-
-&nbsp;t
-
-&nbsp;&nbsp;t
 
 <details>
 <summary>:file_folder: 1st year  </summary>
-&nbsp; :file_folder: Semester 1:  
-  
+- Semester 1:  
 &nbsp;&nbsp; :grapes: [Programmimg on C/C++ and Assembler](https://github.com/egbusko/bsu_famcs/tree/uploading-items-branch/Programming/Semester-1)  
+&nbsp;&nbsp; :grapes: [Programmimg on C/C++ and Assembler](https://github.com/egbusko/bsu_famcs/tree/uploading-items-branch/Programming/Semester-1)  
+&nbsp;&nbsp; :grapes: [Programmimg on C/C++ and Assembler](https://github.com/egbusko/bsu_famcs/tree/uploading-items-branch/Programming/Semester-1)   
+
+- Semester 2:  
+&nbsp;&nbsp; :grapes: [Programming on C++, MFC](/Programming/Semester-2)   
 </details>
 
 :star:
