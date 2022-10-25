@@ -1,16 +1,14 @@
 #  Bachelor's degree - Mathematics and Computer Science :man_student: 
-## draft
+
 ![image](https://user-images.githubusercontent.com/60915234/192141338-8ad79e8b-51d5-48cc-a46c-32854e5f1c04.png)
 
-This repository contains disciplines studied at the `FAMCS` at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in `BSU`.
-
-> **BSU** - [Belarusian State University](https://bsu.by/en/)\
-> **FAMCS** - [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx)\
+>  This repository contains disciplines studied at the `FAMCS` at the [Department of Computer Technology and Systems](https://bsu.by/en/structure/faculties/kafedry/kafedra-kompyuternykh-tekhnologiy-i-sistem-d) in `BSU`.  
 > 2018-2022 Years of education
-
 
 |   |     | 
 | :---  | :--- | 
+| **University** | - BSU: [Belarusian State University](https://bsu.by/en/) |
+| **Faculty** | -  FAMCS: [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx) |
 | **Major** | - Applied Mathematics (Research and Production) |
 | **Specialization** | - Mathematical Modeling |
 | **Qualification** | - Mathematician Programmer |
