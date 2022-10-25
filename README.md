@@ -58,15 +58,14 @@
 &nbsp;&nbsp; :sunflower: [Mobile-Robotics](/Mobile-Robotics)  
 &nbsp;&nbsp; :sunflower: [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
 - Semester 8:  
-&nbsp;&nbsp; 🏁 diplom  
+&nbsp;&nbsp; :fallen_leaf: diplom  
 </details>
 
 
 :star:
 :desktop_computer:
 :bookmark_tabs:
-:heavy_check_mark:
-:small_blue_diamond:\
+:heavy_check_mark:  
 
 
 + :round_pushpin:Finished folders:  
