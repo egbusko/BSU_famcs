@@ -9,45 +9,21 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 > 2018-2022 Years of education
 
 
+|   |     | 
+| :---  | :--- | 
+| **Major** | - Applied Mathematics (Research and Production) |
+| **Specialization** | - Mathematical Modeling |
+| **Qualification** | - Mathematician Programmer |
+
 ***
-+ :round_pushpin:Finished folders:  
-  - [Operating-Systems](/Operating-Systems)  
-  -    
-  -  
-+ :file_folder: Semester 1:  
-  - [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
-  -    
-+ :file_folder: Semester 2:  
-  - [Programming on C++, MFC](/Programming/Semester-2)   
-  -    
-+ :file_folder: Semester 3:  
-  - [Computer-Data-Mining](/Computer-Data-Mining)  
-  - [Programming on Java](/Programming/Semester-3)  
-  -   
-+ :file_folder: Semester 4:  
-  - [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)    
-  - [Operating-Systems](/Operating-Systems)   
-+ :file_folder: Semester 5:  
-  - [Wolfram-Mathematica](/Wolfram-Mathematica)  
-  -    
-+ :file_folder: Semester 6:  
-  - [Computer-Graphics](/Computer-Graphics)  
-  - [Computer-Security](/Computer-Security)  
-+ :file_folder: Semester 7:  
-  - [Mobile-Robotics](/Mobile-Robotics)  
-  - [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
-+ :file_folder: Semester 8: 
-  - diplom  
-
-
 <details>
 <summary>:file_folder: <b>1st year</b>  </summary>
 
 - Semester 1:  
-&nbsp;&nbsp; ◾ [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
-&nbsp;&nbsp; ◾  
+&nbsp;&nbsp; :seedling: [Programmimg on C/C++ and Assembler](/Programming/Semester-1)  
+&nbsp;&nbsp; :seedling:  
 - Semester 2:  
-&nbsp;&nbsp; ◾ [Programming on C++, MFC](/Programming/Semester-2)   
+&nbsp;&nbsp; :seedling: [Programming on C++, MFC](/Programming/Semester-2)   
 </details>
 
 
@@ -55,12 +31,12 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 <summary>:file_folder: <b>2nd year</b>  </summary>
 
 - Semester 3:  
-&nbsp;&nbsp; ◾ [Computer-Data-Mining](/Computer-Data-Mining)  
-&nbsp;&nbsp; ◾ [Programming on Java](/Programming/Semester-3)  
-&nbsp;&nbsp; ◾    
+&nbsp;&nbsp; :herb: [Computer-Data-Mining](/Computer-Data-Mining)  
+&nbsp;&nbsp; :herb: [Programming on Java](/Programming/Semester-3)  
+&nbsp;&nbsp; :herb:    
 - Semester 4:  
-&nbsp;&nbsp; ◾ [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)  
-&nbsp;&nbsp; ◾ [Operating-Systems](/Operating-Systems)  
+&nbsp;&nbsp; :herb: [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)  
+&nbsp;&nbsp; :herb: [Operating-Systems](/Operating-Systems)  
 </details>
 
 
@@ -68,11 +44,11 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 <summary>:file_folder: <b>3rd year</b>  </summary>
 
 - Semester 5:  
-&nbsp;&nbsp; ◾ [Wolfram-Mathematica](/Wolfram-Mathematica)    
-&nbsp;&nbsp; ◾  
+&nbsp;&nbsp; :deciduous_tree: [Wolfram-Mathematica](/Wolfram-Mathematica)    
+&nbsp;&nbsp; :deciduous_tree:  
 - Semester 6:  
-&nbsp;&nbsp; ◾ [Computer-Graphics](/Computer-Graphics)  
-&nbsp;&nbsp; ◾ [Computer-Security](/Computer-Security)  
+&nbsp;&nbsp; :deciduous_tree: [Computer-Graphics](/Computer-Graphics)  
+&nbsp;&nbsp; :deciduous_tree: [Computer-Security](/Computer-Security)  
 </details>
 
 
@@ -80,26 +56,23 @@ This repository contains disciplines studied at the `FAMCS` at the [Department o
 <summary>:file_folder: <b>4th year</b>  </summary>
 
 - Semester 7:  
-&nbsp;&nbsp; ◾ [Mobile-Robotics](/Mobile-Robotics)  
-&nbsp;&nbsp; ◾ [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
+&nbsp;&nbsp; :sunflower: [Mobile-Robotics](/Mobile-Robotics)  
+&nbsp;&nbsp; :sunflower: [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
 - Semester 8:  
 &nbsp;&nbsp; 🏁 diplom  
 </details>
 
 
-
-
 :star:
 :desktop_computer:
 :bookmark_tabs:
-:grey_exclamation:
 :heavy_check_mark:
-:small_blue_diamond:
-:round_pushpin: 
-:technologist:\
-*My degree program was engineering.  
-My major was electrical engineering.  
-My specialization was power systems and control systems.*
+:small_blue_diamond:\
+
+
++ :round_pushpin:Finished folders:  
+  - [Operating-Systems](/Operating-Systems)  
+  -  
 
 to do:  
 - put the years in all folders
