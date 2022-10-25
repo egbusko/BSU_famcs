@@ -61,16 +61,12 @@
 &nbsp;&nbsp; :fallen_leaf: diplom  
 </details>
 
-
-:star:
-:desktop_computer:
-:bookmark_tabs:
-:heavy_check_mark:  
-
+***  
 
 + :round_pushpin:Finished folders:  
   - [Operating-Systems](/Operating-Systems)  
   -  
 
-to do:  
-- put the years in all folders
++ to do:  
+  - use :star: :desktop_computer: :bookmark_tabs: :heavy_check_mark:    
+  - put the years in all folders
