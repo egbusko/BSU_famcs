@@ -58,7 +58,7 @@
 &nbsp;&nbsp; :sunflower: [Mobile-Robotics](/Mobile-Robotics)  
 &nbsp;&nbsp; :sunflower: [Simulation-Statistical-Modeling](/Simulation-Statistical-Modeling)  
 - Semester 8:  
-&nbsp;&nbsp; :fallen_leaf: diplom  
+&nbsp;&nbsp; :fallen_leaf: [Diploma-Thesis](/Diploma-Thesis)  
 </details>
 
 ***  
