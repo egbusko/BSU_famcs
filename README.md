@@ -66,6 +66,10 @@
 + Finished folders:  
   - [Operating-Systems](/Operating-Systems)  
   -  
+  -  
+  -  
+  -  
+  
 + to do:  
   - use :star: :desktop_computer: :bookmark_tabs: :heavy_check_mark: :round_pushpin:   
   - put the years in all folders
