@@ -36,6 +36,7 @@
 - Semester 4:  
 &nbsp;&nbsp; :herb: [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)  
 &nbsp;&nbsp; :herb: [Operating-Systems](/Operating-Systems)  
+&nbsp;&nbsp; :herb: [Educational-Practice](https://github.com/egbusko/educational-practice-2020)  
 </details>
 
 
