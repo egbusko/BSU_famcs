@@ -49,6 +49,7 @@
 - Semester 6:  
 &nbsp;&nbsp; :deciduous_tree: [Computer-Graphics](/Computer-Graphics)  
 &nbsp;&nbsp; :deciduous_tree: [Computer-Security](/Computer-Security)  
+&nbsp;&nbsp; :deciduous_tree: [Course-Work](/)
 </details>
 
 
