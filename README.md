@@ -36,7 +36,7 @@
 - Semester 4:  
 &nbsp;&nbsp; :herb: [Algorithms-and-Data-Structures](/Algorithms-and-Data-Structures)  
 &nbsp;&nbsp; :herb: [Operating-Systems](/Operating-Systems)  
-&nbsp;&nbsp; :herb: [Educational-Practice](https://github.com/egbusko/educational-practice-2020)  
+&nbsp;&nbsp; :herb: [Educational-Practice](https://github.com/egbusko/educational-practice-2020)
 </details>
 
 
@@ -49,7 +49,7 @@
 - Semester 6:  
 &nbsp;&nbsp; :deciduous_tree: [Computer-Graphics](/Computer-Graphics)  
 &nbsp;&nbsp; :deciduous_tree: [Computer-Security](/Computer-Security)  
-&nbsp;&nbsp; :deciduous_tree: [Course-Work](/)
+&nbsp;&nbsp; :deciduous_tree: [Term paper](https://github.com/egbusko/Satellite-Building-Detection)  
 </details>
 
 
